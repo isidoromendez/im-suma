@@ -1,0 +1,26 @@
+{
+  "name": "im-suma",
+  "version": "1.0.0",
+  "description": "K1",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Isidoro Mendez",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isidoromendez/k1.git"
+  },
+  "keywords": [
+    "K1"
+  ],
+  "bugs": {
+    "url": "https://github.com/isidoromendez/k1/issues"
+  },
+  "homepage": "https://github.com/isidoromendez/k1#readme"
+}
