@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.0](https://github.com/isidoromendez/k1/compare/v1.0.0...v1.1.0) (2022-08-25)
+
+
+### Features
+
+* resta added ([58530d3](https://github.com/isidoromendez/k1/commit/58530d3685a24006c910d77d169f91f7a5106041))
+* resta added ([d711b90](https://github.com/isidoromendez/k1/commit/d711b90c5cc6f8e7874d81cacd1c6f5ed3513e48))
+
 ## 1.0.0 (2022-08-25)
 
 
