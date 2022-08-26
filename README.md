@@ -12,4 +12,4 @@ Just for learn. This pakage do nothing!
     * publish npm package
 
 ## Wish to:
-    build proccess
+    * build proccess
