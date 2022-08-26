@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.5](https://github.com/isidoromendez/im-suma/compare/v1.1.4...v1.1.5) (2022-08-26)
+
+
+### Bug Fixes
+
+* ES6 + jest support ([426adec](https://github.com/isidoromendez/im-suma/commit/426adec818f9beece127c6755c7dcea20678959d))
+
 ## [1.1.4](https://github.com/isidoromendez/im-suma/compare/v1.1.3...v1.1.4) (2022-08-26)
 
 
