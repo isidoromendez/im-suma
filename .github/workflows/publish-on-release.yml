@@ -1,7 +1,10 @@
 name: publish-npm on published
 on:
-  release:
-    types: [published,released]
+  push:
+    branches:
+      - main
+    tags:
+      - "v*"
 
 jobs:
   publish-npm:
