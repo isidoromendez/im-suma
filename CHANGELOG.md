@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.3](https://github.com/isidoromendez/k1/compare/v1.1.2...v1.1.3) (2022-08-26)
+
+
+### Bug Fixes
+
+* test added ([03e29f4](https://github.com/isidoromendez/k1/commit/03e29f4247bca5d732aed0ef8d838ab7eb3a3d4b))
+
 ## [1.1.2](https://github.com/isidoromendez/k1/compare/v1.1.1...v1.1.2) (2022-08-26)
 
 
