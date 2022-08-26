@@ -30,3 +30,13 @@ jobs:
     - run: npm ci
     - run: npm run build --if-present
     - run: npm test
+
+  release-please:
+    needs: [build]
+    runs-on: ubuntu-latest
+    environment: env1
+    steps:
+      - uses: google-github-actions/release-please-action@v3
+        with:
+          release-type: node
+          package-name: release-please-action
