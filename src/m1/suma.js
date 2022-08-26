@@ -1,4 +1,6 @@
-export const suma = (a,b)=>{
-    return a+b;
+export const suma = (...args)=>{
+    return args.reduce((last,curr)=>{
+        return last + curr;
+    },0);
 };
 
