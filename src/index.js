@@ -1,2 +1,2 @@
-const {suma,resta} = require('./m1');
-module.exports = {suma,resta};
+import { suma,resta } from "./m1/index.js";
+export { suma,resta };

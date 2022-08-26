@@ -10,6 +10,7 @@ Just for learn. This pakage do nothing!
     * publish a release
   * release published
     * publish npm package
+  * ES6 + jest support
 
 ## Wish to:
 * build proccess
