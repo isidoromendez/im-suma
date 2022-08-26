@@ -1,4 +1,5 @@
-const {suma} = require('./suma');
-const {resta} = require('./resta');
+// bbbb
+import { suma } from "./suma.js";
+import { resta } from "./resta.js";
 
-module.exports = {suma,resta}
+export {suma,resta};

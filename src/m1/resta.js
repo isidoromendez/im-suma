@@ -1,5 +1,3 @@
-const resta = (a,b)=>{
+export const resta = (a,b)=>{
     return a-b;
 };
-
-module.exports = {resta};

@@ -1,5 +1,4 @@
-const suma = (a,b)=>{
+export const suma = (a,b)=>{
     return a+b;
 };
 
-module.exports = {suma};
