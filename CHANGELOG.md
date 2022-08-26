@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/isidoromendez/k1/compare/v1.1.0...v1.1.1) (2022-08-26)
+
+
+### Bug Fixes
+
+* resta(1,2) ([fb62a6a](https://github.com/isidoromendez/k1/commit/fb62a6a9e5232ebe2eb1526b980c23043011f215))
+
 ## [1.1.0](https://github.com/isidoromendez/k1/compare/v1.0.0...v1.1.0) (2022-08-25)
 
 
