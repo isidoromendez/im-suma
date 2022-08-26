@@ -4,14 +4,17 @@
   "description": "K1",
   "main": "src/index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "test": "jest"
   },
   "author": "Isidoro Mendez",
   "license": "ISC",
   "dependencies": {
     "inquirer": "^8.0.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/isidoromendez/k1.git"
