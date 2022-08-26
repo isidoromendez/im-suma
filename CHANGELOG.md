@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/isidoromendez/im-suma/compare/v1.2.0...v1.2.1) (2022-08-26)
+
+
+### Bug Fixes
+
+* doc suma ([0daaea0](https://github.com/isidoromendez/im-suma/commit/0daaea0135b809a774dcc399f9dab66d3664034b))
+
 ## [1.2.0](https://github.com/isidoromendez/im-suma/compare/v1.1.5...v1.2.0) (2022-08-26)
 
 
