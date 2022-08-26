@@ -10,3 +10,6 @@ Just for learn. This pakage do nothing!
     * publish a release
   * release published
     * publish npm package
+
+## Wish to:
+    build proccess
