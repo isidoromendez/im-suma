@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.4](https://github.com/isidoromendez/im-suma/compare/v1.1.3...v1.1.4) (2022-08-26)
+
+
+### Bug Fixes
+
+* update README.md ([9c1edae](https://github.com/isidoromendez/im-suma/commit/9c1edae5318166a7be752abb7e4545e70cd2dceb))
+
 ## [1.1.3](https://github.com/isidoromendez/k1/compare/v1.1.2...v1.1.3) (2022-08-26)
 
 
