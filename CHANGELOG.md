@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/isidoromendez/im-suma/compare/v1.1.5...v1.2.0) (2022-08-26)
+
+
+### Features
+
+* add support for multiple arguments on suma ([d7288d3](https://github.com/isidoromendez/im-suma/commit/d7288d3f6699e00499b5773f172ac5b56fd1815e))
+
 ## [1.1.5](https://github.com/isidoromendez/im-suma/compare/v1.1.4...v1.1.5) (2022-08-26)
 
 
