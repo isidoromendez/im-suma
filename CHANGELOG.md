@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/isidoromendez/k1/compare/v1.1.1...v1.1.2) (2022-08-26)
+
+
+### Bug Fixes
+
+* folder structure changed ([2236835](https://github.com/isidoromendez/k1/commit/223683561d8d840857b59c0bde23e743fe34dc67))
+
 ## [1.1.1](https://github.com/isidoromendez/k1/compare/v1.1.0...v1.1.1) (2022-08-26)
 
 
