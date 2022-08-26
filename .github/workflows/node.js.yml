@@ -33,8 +33,7 @@ jobs:
 
   release-please:
     needs: [build]
-    runs-on: ubuntu-latest
-    environment: env1
+    runs-on: ubuntu-latest    
     steps:
       - uses: google-github-actions/release-please-action@v3
         with:
@@ -44,6 +43,7 @@ jobs:
   publish-npm:
     needs: [release-please]
     runs-on: ubuntu-latest
+    environment: env1
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
