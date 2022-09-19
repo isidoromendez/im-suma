@@ -11,6 +11,8 @@ Just for learn. This pakage do nothing!
   * release published
     * publish npm package
   * ES6 + jest support
+  * @ts-check
+  * JSDoc
 
 ## Wish to:
 * build proccess
