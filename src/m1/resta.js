@@ -4,6 +4,8 @@
  * @param {number} b second number
  * @returns diff a-b
  */
-export const resta = (a,b)=>{
+const resta = (a,b)=>{
     return a-b;
 };
+
+export default resta;

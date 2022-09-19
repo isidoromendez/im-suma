@@ -3,9 +3,10 @@
  * @param  {...any} args numbers
  * @returns number
  */
-export const suma = (...args)=>{
+const suma = (...args)=>{
     return args.reduce((last,curr)=>{
         return last + curr;
     },0);
 };
 
+export default suma;
